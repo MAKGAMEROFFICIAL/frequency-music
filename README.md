@@ -8,7 +8,7 @@ best discord music bot still in development.
 - Commands to pull data from many sites.
 - Moderation commands
 # 🔗 Invite 
-## you can invite the bot with all perms by clicking [here](https://discord.com/oauth2/authorize?client_id=1285596268932104264&permissions=2113268958&scope=bot%20applications.commands) ,with 0 perms by clicking [here](https://discord.com/oauth2/authorize?client_id=1285596268932104264&permissions=0&scope=bot%20applications.commands) and here is [default link](https://discord.com/oauth2/authorize?client_id=1285596268932104264)
+### you can invite the bot with all perms by clicking [here](https://discord.com/oauth2/authorize?client_id=1285596268932104264&permissions=2113268958&scope=bot%20applications.commands) ,with 0 perms by clicking [here](https://discord.com/oauth2/authorize?client_id=1285596268932104264&permissions=0&scope=bot%20applications.commands) and here is [default link](https://discord.com/oauth2/authorize?client_id=1285596268932104264)
 # 📄 Commands
 
 **💾 Data Commands 💾**
@@ -73,3 +73,14 @@ best discord music bot still in development.
 | ------------- | ------------- | ----------------- | ------------- |
 | rank          | Stats         | Prefix Command    | Shows the current rank on guild. |
 | top           | Stats         | Prefix Command    | Guild level ranking. |
+
+# 🎫 Support/Contact us
+
+You can join our discord server by clicking on this link.
+
+
+
+# 🌐 web/dashboard 
+
+
+coming soon
