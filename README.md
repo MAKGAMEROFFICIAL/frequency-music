@@ -1,2 +1,2 @@
-# frequencyofficial
+# frequency
 best discord music bot
